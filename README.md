@@ -8,7 +8,7 @@ It allows users to browse upcoming events, view details, join events, and manage
 ---
 
 ## 🌐 Live URL
-🔗 [Live Site](https://social-events-a10.netlify.app/)
+🔗 [Live Site](https://a-10-scic.netlify.app/)
 
 ---
 
